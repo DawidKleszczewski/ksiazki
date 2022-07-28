@@ -61,7 +61,7 @@ ul li {
     width: 20rem;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 500px) {
     #grid {
         grid-template-columns: auto;
     }
