@@ -65,4 +65,7 @@ ul li {
     #grid {
         grid-template-columns: auto;
     }
+    li {
+        margin: 0 40px 0 40px;
+    }
 }
