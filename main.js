@@ -19,11 +19,6 @@ let books = [
         description:
             "Harry Potter, sierota i podrzutek, od niemowlęcia wychowywany był przez ciotkę i wuja, którzy traktowali go jak piąte koło u wozu. Pochodzenie chłopca owiane jest tajemnicą; jedyną pamiątką Harry`ego z przeszłości jest zagadkowa blizna na czole. Skąd jednak biorą się niesamowite zjawiska, które towarzyszą nieświadomemu niczego Potterowi? Wszystko zmienia się w dniu jedenastych urodzin chłopca, kiedy dowiaduje się o istnieniu świata, o którym nie miał dotąd pojęcia. Nowe wydanie książki o najsłynniejszym czarodzieju świata różni się od poprzednich nie tylko okładką, ale i wnętrzem – po raz pierwszy na początku każdego tomu pojawi się mapka Hogwartu i okolic, początki rozdziałów ozdobione będą specjalnymi gwiazdkami, a na końcu pierwszego tomu na Czytelników czeka coś zupełnie wyjątkowego – akt personalny J.K. Rowling, z którego można dowiedzieć się, jakie jest ulubione zwierzę czy bohater literacki autorki.",
     },
-    {
-        title: "Droga Królów2",
-        description:
-            "Obserwujemy cztery postaci. Pierwszą jest chirurg, zmuszony do porzucenia swej sztuki i zostania żołnierzem w najbardziej brutalnej wojnie naszych czasów. Drugą – skrytobójca, morderca, który płacze, kiedy zabija. Trzecia osoba to oszust, młoda kobieta skrywająca za płaszczem kłamstw swoją prawdziwą naturę. Ostatnią jest arcyksiążę, wojownik, owładnięty żądzą krwi.",
-    },
 ];
 
 function show() {
